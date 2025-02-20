@@ -1,4 +1,4 @@
-#go-brawl-stats
+# go-brawl-status
 
 It is a CLI program that requests data from [Supercell API](https://developer.brawlstars.com),
 save as JSON, parse and create statistics.
