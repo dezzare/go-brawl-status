@@ -8,8 +8,7 @@ save as JSON, parse and create statistics.
 1. [Why?](#why?)
 2. [How to run](#how-to-run)
 3. [How it works](#how-it-works)
-4. [Settings](#settings)
-5. [License](#license-mit)
+4. [License](#license-mit)
 
 ## Why?
 I'm a lawyer in transition to a dev career,
@@ -60,9 +59,6 @@ Replace PLAERTAG with the in game tag, example bobby tag: "#LVRRYPV"
 It takes the PlayerTag, request to Supercell API the player info and all brawlers.
 Save to a json file.
 Parse the json file and show the statistics to max level.
-
-## Settings
-TODO
 
 
 ## License MIT
