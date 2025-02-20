@@ -54,6 +54,7 @@ Create a .env file with the your variable APIKEY (from Supercell API)
 ```sh
 go run . PLAYERTAG
 ```
+Replace PLAERTAG with the in game tag, example bobby tag: "#LVRRYPV"
 
 ## How it works
 It takes the PlayerTag, request to Supercell API the player info and all brawlers.
